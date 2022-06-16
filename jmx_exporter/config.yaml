@@ -1,0 +1,4 @@
+hostPort: localhost:10111
+#jmxUrl: service:jmx:rmi:///jndi/rmi://127.0.0.1:8080/actuator/metrics
+rules:
+- pattern: ".*"
